@@ -42,8 +42,8 @@ pip install django
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/kashan2023official-beep/Django-basic-CRUDS>
-   cd <repository-directory>
+   git clone https://github.com/kashan2023official-beep/Django-basic-CRUDS
+   cd test
    ```
 
 2. **Activate Virtual Environment (Optional but recommended):**
